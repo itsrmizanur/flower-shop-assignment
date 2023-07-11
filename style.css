@@ -59,6 +59,17 @@
   justify-content: space-between;
   margin-top: 50px;
 }
+.card-1 img,
+.card-2 img {
+  position: relative;
+  top: 110px;
+  left: 70px;
+}
+.card-3 img {
+  position: relative;
+  top: 65px;
+  left: 70px;
+}
 .card p {
   color: #272727;
   font-size: 24px;
